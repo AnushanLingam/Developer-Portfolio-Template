@@ -2,6 +2,8 @@
 
 A simple portfolio built in React using the [Material-UI](https://material-ui.com/) framework.
 
+Click [here](https://www.anushanlingam.com/) for a live demo.
+
 ![alt text](https://imgur.com/np4bCe3.png "Demo")
 
 
